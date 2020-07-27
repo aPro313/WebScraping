@@ -1,0 +1,1 @@
+To crawl the required data from German real state site immobilienscout24.de, first we extract the area/district information by chrome extension (Web Grabber) in area.html file. Then we crawl through the required property cards on the basis of area/district information and get the output in CSV file.
